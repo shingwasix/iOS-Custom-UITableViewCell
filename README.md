@@ -7,4 +7,4 @@ Show you how to create a custom UITableViewCell with xib.
 
 You can learn more about it in 
 
-http://blog.waaile.com/ios-custom-uitableviewcell-with-xib/
+https://shingwasix.me/ios-custom-uitableviewcell-with-xib
